@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Animated typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=I+find+where+funnels+leak.;I+size+the+business+cost.;I+ship+the+fix.;Then+I+automate+the+whole+thing." alt="Typing SVG" /></a>
 
 <br/>
@@ -19,24 +18,28 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=akshatttt27&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide=stars&count_private=true&bg_color=00000000" width="42%" />
-
 ### About me
 
 ```yaml
 name: Akshat Anand Shrivastava
 role: Product & Business Analyst
-company: LoadShare Networks
+company: LoadShare Networks (logistics, quick-commerce)
 location: Bengaluru, India
 education: B.Tech CS — R.G.P.V
 
 currently:
-  - Owning onboarding & activation analytics
-  - Building AI-powered self-serve data tools
-  - Shipping product fixes that move metrics
+  - Owning onboarding & activation analytics for 67K+ riders
+  - Building AI-powered self-serve data tools (DataPilot)
+  - Shipping product fixes that move conversion, revenue, and cost metrics
 
 previously:
-  - WeRize (Fintech) — Loan & Insurance analytics
+  - WeRize (Fintech) — Loan disbursal, insurance product launch, CRM automation
+
+what_i_do:
+  - Funnel breaks → find the stage, size the leak, build the business case
+  - Slow activation → profile the timing, design the intervention, measure the lift
+  - Team bottleneck → build self-serve tools so analysts are not the bottleneck
+  - New revenue line → validate PMF, write the PRD, launch the feature
 
 open_to:
   - Product Analyst
@@ -44,8 +47,6 @@ open_to:
   - Associate Product Manager
   - Growth Analyst
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -71,7 +72,7 @@ open_to:
 
 **32%**
 <br/>
-<sub>Declined loans recovered<br/>+ 15% daily disbursal</sub>
+<sub>Declined loans recovered<br/>+15% daily disbursal</sub>
 
 </td>
 <td align="center" width="25%">
@@ -82,13 +83,43 @@ open_to:
 
 </td>
 </tr>
+<tr>
+<td align="center" width="25%">
+
+**39%**
+<br/>
+<sub>Insurance feature adoption<br/>New revenue line launched</sub>
+
+</td>
+<td align="center" width="25%">
+
+**65%**
+<br/>
+<sub>Requests moved to<br/>self-serve analytics</sub>
+
+</td>
+<td align="center" width="25%">
+
+**15+**
+<br/>
+<sub>Analyst hours freed<br/>per week</sub>
+
+</td>
+<td align="center" width="25%">
+
+**90%**
+<br/>
+<sub>Faster campaign setup<br/>30min → 2min</sub>
+
+</td>
+</tr>
 </table>
 
 ---
 
 ### 🧠 The Build I'm Most Proud Of
 
-> **DataPilot** — an AI analytics agent on Claude + MCP wired to our data warehouse.
+> **DataPilot** — an AI analytics agent I built using Claude + MCP on our Redshift warehouse.
 > 
 > Any team member asks a question in plain English → gets the exact metric, a runnable SQL query, and a dashboard.
 > 
@@ -100,7 +131,7 @@ open_to:
 
 <div align="center">
 
-**Analytics**
+**Analytics & Data**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -138,7 +169,6 @@ open_to:
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 **🔍 [Onboarding Funnel Analysis](https://github.com/akshatttt27/onboarding-funnel-analysis)**
@@ -163,7 +193,7 @@ SDC/MDI fraud rates across 3 onboarding channels · Risk segmentation · Staffpa
 
 **⏱ [Activation Time-to-Convert](https://github.com/akshatttt27/activation-time-to-convert)**
 
-P50/P75/P95 stage profiling · Intervention window design · Motivation gap validation
+P50/P75/P95 stage profiling · Intervention window design · Motivation gap validation via A/B testing
 
 `SQL` `Python` `scipy`
 
@@ -172,7 +202,7 @@ P50/P75/P95 stage profiling · Intervention window design · Motivation gap vali
 
 **🛒 [E-commerce Conversion](https://github.com/akshatttt27/ecommerce-conversion-optimization)**
 
-Purchase funnel · A/B test significance framework · +15% conversion, -10% abandonment
+Purchase funnel · A/B test significance framework · +15% conversion · -10% cart abandonment
 
 `SQL` `Python` `scipy`
 
@@ -223,8 +253,8 @@ AI analytics agent · Claude + MCP · 570+ queries · Natural-language to metric
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatttt27&theme=github_dark_dimmed&hide_border=true&background=00000000" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatttt27&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=00000000" width="38%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatttt27&theme=transparent&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatttt27&layout=compact&theme=transparent&hide_border=true" width="38%" />
 
 <br/><br/>
 
